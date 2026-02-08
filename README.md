@@ -19,10 +19,9 @@
 [![](https://visitcount.itsvg.in/api?id=Spoorthi-Shettigar&icon=0&color=0)](https://visitcount.itsvg.in)
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Spoorthi-shettigar/Spoorthi-shettigar/dist/github-contribution-grid-snake-dark.svg" />
-  <img
-    src="https://raw.githubusercontent.com/Spoorthi-shettigar/Spoorthi-shettigar/dist/github-contribution-grid-snake.svg"
-    alt="Snake animation" />
+    srcset="https://raw.githubusercontent.com/Spoorthi-shettigar/Spoorthi-shettigar/main/dist/github-contribution-grid-snake-dark.svg" />
+  <img alt="Snake animation"
+    src="https://raw.githubusercontent.com/Spoorthi-shettigar/Spoorthi-shettigar/main/dist/github-contribution-grid-snake.svg" />
 </picture>
 
 
