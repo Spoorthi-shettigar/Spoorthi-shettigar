@@ -1,9 +1,10 @@
-<h1 align="center">👋 Hi, I'm Spoorthi</h1>
+# 🪐 About Me:
+
+### 👋 Hi, I'm Spoorthi
 
 
 
 
-## 👩‍💻 About Me
 
 - 🎓 3rd-year **Artificial Intelligence & Data Science** student  
 - 🤖 Interested in **Machine Learning, Data Science, and AI-driven solutions**  
