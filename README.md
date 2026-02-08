@@ -1,7 +1,20 @@
+# 💫 Hi 👋, I'm Spoorthi  
+**A passionate Artificial Intelligence & Data Science student**
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)][(https://linkedin.com/in/Spoorthi Shettigar](https://www.linkedin.com/in/spoorthi-shettigar-a2643a291/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfndXyByVQLSNB%2BuII%2FOylw%3D%3D)) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)]([https://pinterest.com/Spoorthi L](https://pin.it/5mJDP4Lr2)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:spoorthi200606@gmail.com) 
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/spoorthi-shettigar-a2643a291/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://pin.it/5mJDP4Lr2">
+    <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white"/>
+  </a>
+  <a href="mailto:spoorthi200606@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
 
 
 
