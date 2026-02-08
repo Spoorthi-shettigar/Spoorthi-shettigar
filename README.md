@@ -10,8 +10,9 @@
 <!-- Snake Game Repo View -->
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Spoorthi-shettigar/Spoorthi-shettigar/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Spoorthi-Shettigar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
