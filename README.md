@@ -6,7 +6,7 @@
 
 
 
-- 🎓 3rd-year **Artificial Intelligence & Data Science** student  
+- 🎓 4th-year **Artificial Intelligence & Data Science** student  
 - 🤖 Interested in **Machine Learning, Data Science, and AI-driven solutions**  
 - 💻 Enjoy building **projects that solve real-world problems**  
 - 🌱 Currently learning **advanced ML concepts and full-stack basics**  
